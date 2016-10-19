@@ -1,2 +1,2 @@
-# YiBot-Open-Sourced-Robotic-Arm-
-An open-sourced robotic arm project, aiming at low cost and high performance. 
+# YiBot-Open-Source-Robotic-Arm-
+An open source 6 DOFs robotic arm project, aiming at low cost and high performance.
